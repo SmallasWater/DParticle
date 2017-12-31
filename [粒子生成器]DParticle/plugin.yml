@@ -1,0 +1,6 @@
+name: DParticle
+main: dxp\dpt\DParticle
+version: 1.0.8
+api: [1.12.0]
+load: POSTWORLD
+author: aabbcc872[dxp]
